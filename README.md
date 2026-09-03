@@ -60,6 +60,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mita-div1&show_icons=true&locale=en&layout=compact" alt="mita-div1" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mita-div1&show_icons=true&locale=en" alt="mita-div1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mita-div1&" alt="mita-div1" /></p>
