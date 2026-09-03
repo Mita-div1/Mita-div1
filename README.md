@@ -1,6 +1,7 @@
 # Hi 👋, I'm Moumita Bala
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
+<img width="1672" height="676" alt="a6212988-563d-4ae8-be6c-b075f7bc3b4d" src="https://github.com/user-attachments/assets/7426ffd6-45f1-440e-ac6a-7a4afe0e84f5" />
+
 
 ### 🔭 I build things with HTML, CSS, JavaScript, and React.
 
