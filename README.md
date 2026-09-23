@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://facebook.com/moumita.bala" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-  <a href="mailto:abmoumitabala12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61588196534599" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="mailto:abmoumitabala12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&text=abmoumitabala12@gmail.com" alt="Gmail Badge"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
