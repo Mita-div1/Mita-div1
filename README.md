@@ -57,11 +57,11 @@
 <h3 align="center">📊 GitHub Stats & Streak</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mita-div1&theme=radical" />
+  <img src="https://github-readme-stats.gift/api?username=mita-div1&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mita-div1&theme=radical" />
+  <img src="https://github-readme-stats.gift/api/top-langs?username=mita-div1&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
