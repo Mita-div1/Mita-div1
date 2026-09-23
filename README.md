@@ -57,21 +57,15 @@
 <h3 align="center">📊 GitHub Stats & Streak</h3>
 
 <p align="center">
-  <a href="https://github.com/mita-div1">
-    <img src="https://github-readme-stats.vercel.app/api?username=mita-div1&show_icons=true&theme=radical" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mita-div1&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mita-div1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mita-div1&layout=compact&theme=radical" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mita-div1&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mita-div1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mita-div1&theme=radical" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mita-div1&theme=radical" />
 </p>
 
 
